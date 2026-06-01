@@ -145,6 +145,61 @@ Learned how to process raw data step-by-step using PySpark and build simple ETL 
 - GitHub
 
 ---
+# ⚡ PySpark DataFrame Transformations
+
+## 📌 Overview
+
+This project contains hands-on practice of PySpark DataFrame transformations, window functions, joins, aggregations, and data processing operations.
+
+## 🛠️ Tech Stack
+
+* 🐍 Python
+* ⚡ PySpark
+* 🧱 Databricks
+
+## ✨ Topics Covered
+
+*  Filtering (`isin`, `between`)
+*  Pivot & Unpivot (`pivot`, `stack`)
+*  Window Functions (`rank`, `dense_rank`, `lead`, `lag`)
+*  Partition Management (`repartition`, `coalesce`)
+*  Data Cleaning (`fillna`, `replace`, `na.drop`)
+*  Data Transformations
+*  Joins (`crossJoin`, `broadcast`)
+*  Aggregations (`cube`, `rollup`)
+*  Array Operations (`explode_outer`, `array_contains`)
+
+## 🔄 Workflow
+
+```text
+Raw Data
+   ↓
+Transformations
+   ↓
+Data Cleaning
+   ↓
+Joins & Aggregations
+   ↓
+Analysis & Insights
+```
+
+## 📈 Output
+
+* ✅ Cleaned Data
+* ✅ Aggregated Reports
+* ✅ Ranked Results
+* ✅ Joined Datasets
+* ✅ Analytical Insights
+
+## 🎯 Learning Outcomes
+
+* PySpark DataFrame Operations
+* Data Transformation Techniques
+* Window Functions
+* ETL Concepts
+* Data Engineering Fundamentals
+
+⭐ Built using PySpark for Data Engineering and Data Analytics practice.
 
 ## 👩‍💻 Author
 **T.Thirumalesh**
