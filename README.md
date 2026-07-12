@@ -1,11 +1,11 @@
-# 🚀 Data Engineering Training Repository
+#  Data Engineering Training Repository
 
 ### SQL · PySpark · Databricks · ETL · Data Quality  
-### Python · Apache Spark · Spark SQL · Spark Playground
+
 
 ---
 
-## 📌 About Repository
+##  About Repository
 
 This repository contains my hands-on **Data Engineering** learning journey organized **week-wise** and **day-wise**.
 
@@ -13,7 +13,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-## 🗂️ Quick Structure
+##  Quick Structure
 
 ```text
 Data-Engineering-Training/
@@ -29,9 +29,9 @@ Data-Engineering-Training/
 
 ---
 
-## 📚 Quick Glimpse
+##  Quick Glimpse
 
-### 📅 Week-1 (SQL Foundations)
+###  Week-1 (SQL Foundations)
 
 - Day-1: SQL Basics & Database Concepts
 - Day-2: SQL Clauses & Operators
@@ -52,7 +52,7 @@ Data-Engineering-Training/
 
 ---
 
-### 📅 Week-3 (PySpark & Data Engineering)
+###  Week-3 (PySpark & Data Engineering)
 
 - Day-1: Window Functions
 - Day-2: PySpark Basics
@@ -62,7 +62,7 @@ Data-Engineering-Training/
 
 ---
 
-### 📁 Projects
+###  Projects
 
 - Project-1: Employee Salary Analysis
 - Project-2: HR Dashboard
@@ -70,7 +70,7 @@ Data-Engineering-Training/
 
 ---
 
-### 📁 PySpark
+###  PySpark
 
 -  Phase 2 (Bridge Pack)
 -  Phase 3 (ETL Pipeline)
@@ -79,7 +79,7 @@ Data-Engineering-Training/
 
 ---
 
-## 🧠 Skills Snapshot
+##  Skills Snapshot
 
 - SQL Query Writing
 - Joins and Aggregations
@@ -99,7 +99,7 @@ Data-Engineering-Training/
 
 ---
 
-## ⚙️ Where to Start
+##  Where to Start
 
 - Start with **Week-1** for SQL Foundations.
 - Move to **Week-2** for SQL Functions Practice.
